@@ -290,6 +290,12 @@ PrefabInstance:
       propertyPath: changeToChangeDirections
       value: 0.02
       objectReference: {fileID: 0}
+    - target: {fileID: 114004036426971602, guid: 0c4ca73a7b4d11e46a9f9f2df3e6b9b5,
+        type: 3}
+      propertyPath: applePrefab
+      value: 
+      objectReference: {fileID: 8531560759273765027, guid: 0bdf65b871e4add4095ae478cea8780a,
+        type: 3}
     - target: {fileID: 2301840158815573509, guid: 0c4ca73a7b4d11e46a9f9f2df3e6b9b5,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -344,6 +350,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2301840158815573508, guid: 0c4ca73a7b4d11e46a9f9f2df3e6b9b5,
+        type: 3}
+      propertyPath: m_IsKinematic
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c4ca73a7b4d11e46a9f9f2df3e6b9b5, type: 3}
